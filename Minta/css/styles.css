@@ -1,0 +1,16 @@
+.keret{
+    border:1px solid black;
+}
+.kiscica{
+    background-color: red;
+}  
+#gomb{
+    background-color: rgb(20, 164, 113);
+    border-radius: 3px;
+    color:white;
+    border:none;
+}
+#gomb:hover{
+    background-color:aquamarine;
+    color:black;
+}
